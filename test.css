@@ -16,14 +16,18 @@ a{
 }
 
 h3{
-    color: #FFBC00;, 
-    font-size: 40px;, 
+    color:#FFBC00;
+    font-size: 40px;
     font-family: "Passion One";
-    margin-bottom: 0px;
+    margin-bottom: 0px
 }
 
 li{
 
+}
+
+span{
+    color:#FFBC00;
 }
 
 ul{
@@ -38,16 +42,16 @@ ul{
     margin-bottom: 10px;
     border: solid 8px black;
     text-align: center;
-    font-size: 60px; 
-    font-family: "Passion One"; 
-    color: #FFBC00; 
-    font-weight: bold; 
+   
     background-color: #8E41D5;
 
 }
 
 #Header h1{
-
+    font-size: 60px; 
+    font-family: "Passion One"; 
+    color: #FFBC00; 
+    font-weight: bold;
 }
 
 #LeftNav {
