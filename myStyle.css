@@ -1,0 +1,36 @@
+ul {
+  text-align: right;
+    font-size: 15pt;
+    color: #1e72a3;
+    margin-top: 5px;
+        font-weight: bold;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        float: right;
+        position: absolute;
+
+        bottom:20px;
+    right:10px;
+}
+
+
+h2{
+  text-align: right;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-top: 5px;
+  position: absolute;
+  bottom:130px;
+  right:10px;
+}
+
+h1 {
+  text-align: top;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-top: 5px;
+  position: absolute;
+  top:10;
+  right:10px;
+}
